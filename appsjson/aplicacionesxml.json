@@ -1,0 +1,301 @@
+[ {
+  "codigoUni" : 0,
+  "nombre" : "app0A",
+  "descripcion" : "Travel App",
+  "tamanioKb" : 813.4751709773859,
+  "numeroDescargas" : 30112
+}, {
+  "codigoUni" : 1,
+  "nombre" : "app1M",
+  "descripcion" : "Generator App",
+  "tamanioKb" : 277.98685222073726,
+  "numeroDescargas" : 37032
+}, {
+  "codigoUni" : 2,
+  "nombre" : "app2u",
+  "descripcion" : "Food App",
+  "tamanioKb" : 195.91026946134554,
+  "numeroDescargas" : 42867
+}, {
+  "codigoUni" : 3,
+  "nombre" : "app3V",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 992.7142600308781,
+  "numeroDescargas" : 20053
+}, {
+  "codigoUni" : 4,
+  "nombre" : "app4N",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 438.67446163821194,
+  "numeroDescargas" : 5822
+}, {
+  "codigoUni" : 5,
+  "nombre" : "app5R",
+  "descripcion" : "Games App",
+  "tamanioKb" : 116.94275053798658,
+  "numeroDescargas" : 26712
+}, {
+  "codigoUni" : 6,
+  "nombre" : "app6m",
+  "descripcion" : "Great App",
+  "tamanioKb" : 591.6381895491213,
+  "numeroDescargas" : 9721
+}, {
+  "codigoUni" : 7,
+  "nombre" : "app7u",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 153.5027874870877,
+  "numeroDescargas" : 31781
+}, {
+  "codigoUni" : 8,
+  "nombre" : "app8x",
+  "descripcion" : "Locations App",
+  "tamanioKb" : 613.1127083793456,
+  "numeroDescargas" : 41988
+}, {
+  "codigoUni" : 9,
+  "nombre" : "app9D",
+  "descripcion" : "Generator App",
+  "tamanioKb" : 856.9402496354785,
+  "numeroDescargas" : 22379
+}, {
+  "codigoUni" : 10,
+  "nombre" : "app10J",
+  "descripcion" : "Travel App",
+  "tamanioKb" : 371.7685781340258,
+  "numeroDescargas" : 32442
+}, {
+  "codigoUni" : 11,
+  "nombre" : "app11n",
+  "descripcion" : "Utils App",
+  "tamanioKb" : 703.7984596928806,
+  "numeroDescargas" : 7746
+}, {
+  "codigoUni" : 12,
+  "nombre" : "app12C",
+  "descripcion" : "Travel App",
+  "tamanioKb" : 628.6743813494496,
+  "numeroDescargas" : 368
+}, {
+  "codigoUni" : 13,
+  "nombre" : "app13l",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 793.6988274229954,
+  "numeroDescargas" : 6298
+}, {
+  "codigoUni" : 14,
+  "nombre" : "app14C",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 262.49508483478957,
+  "numeroDescargas" : 2132
+}, {
+  "codigoUni" : 15,
+  "nombre" : "app15g",
+  "descripcion" : "Games App",
+  "tamanioKb" : 703.7966830112949,
+  "numeroDescargas" : 43103
+}, {
+  "codigoUni" : 16,
+  "nombre" : "app16j",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 659.0575641883078,
+  "numeroDescargas" : 32784
+}, {
+  "codigoUni" : 17,
+  "nombre" : "app17S",
+  "descripcion" : "Editor App",
+  "tamanioKb" : 981.0443004964455,
+  "numeroDescargas" : 19993
+}, {
+  "codigoUni" : 18,
+  "nombre" : "app18t",
+  "descripcion" : "Food App",
+  "tamanioKb" : 175.0332569994213,
+  "numeroDescargas" : 15574
+}, {
+  "codigoUni" : 19,
+  "nombre" : "app19K",
+  "descripcion" : "Games App",
+  "tamanioKb" : 518.9235214169064,
+  "numeroDescargas" : 8245
+}, {
+  "codigoUni" : 20,
+  "nombre" : "app20i",
+  "descripcion" : "Utils App",
+  "tamanioKb" : 708.4069209900633,
+  "numeroDescargas" : 48355
+}, {
+  "codigoUni" : 21,
+  "nombre" : "app21W",
+  "descripcion" : "Reader App",
+  "tamanioKb" : 667.9160199074439,
+  "numeroDescargas" : 47247
+}, {
+  "codigoUni" : 22,
+  "nombre" : "app22n",
+  "descripcion" : "Reader App",
+  "tamanioKb" : 357.692205405715,
+  "numeroDescargas" : 49998
+}, {
+  "codigoUni" : 23,
+  "nombre" : "app23r",
+  "descripcion" : "Editor App",
+  "tamanioKb" : 855.9595240082652,
+  "numeroDescargas" : 14202
+}, {
+  "codigoUni" : 24,
+  "nombre" : "app24m",
+  "descripcion" : "Utils App",
+  "tamanioKb" : 347.52356240764345,
+  "numeroDescargas" : 11671
+}, {
+  "codigoUni" : 25,
+  "nombre" : "app25j",
+  "descripcion" : "Travel App",
+  "tamanioKb" : 854.4939123558638,
+  "numeroDescargas" : 41076
+}, {
+  "codigoUni" : 26,
+  "nombre" : "app26E",
+  "descripcion" : "Food App",
+  "tamanioKb" : 168.29684586052747,
+  "numeroDescargas" : 40458
+}, {
+  "codigoUni" : 27,
+  "nombre" : "app27A",
+  "descripcion" : "Utils App",
+  "tamanioKb" : 813.4316689553085,
+  "numeroDescargas" : 23717
+}, {
+  "codigoUni" : 28,
+  "nombre" : "app28y",
+  "descripcion" : "Travel App",
+  "tamanioKb" : 121.94859387415258,
+  "numeroDescargas" : 30619
+}, {
+  "codigoUni" : 29,
+  "nombre" : "app29v",
+  "descripcion" : "Reader App",
+  "tamanioKb" : 508.4922194850508,
+  "numeroDescargas" : 34797
+}, {
+  "codigoUni" : 30,
+  "nombre" : "app30B",
+  "descripcion" : "Editor App",
+  "tamanioKb" : 548.757226021235,
+  "numeroDescargas" : 6186
+}, {
+  "codigoUni" : 31,
+  "nombre" : "app31D",
+  "descripcion" : "Locations App",
+  "tamanioKb" : 468.82070511138113,
+  "numeroDescargas" : 23482
+}, {
+  "codigoUni" : 32,
+  "nombre" : "app32M",
+  "descripcion" : "Travel App",
+  "tamanioKb" : 203.21749034468434,
+  "numeroDescargas" : 14414
+}, {
+  "codigoUni" : 33,
+  "nombre" : "app33Z",
+  "descripcion" : "Locations App",
+  "tamanioKb" : 705.666901550938,
+  "numeroDescargas" : 46338
+}, {
+  "codigoUni" : 34,
+  "nombre" : "app34r",
+  "descripcion" : "Editor App",
+  "tamanioKb" : 806.5819596458457,
+  "numeroDescargas" : 41611
+}, {
+  "codigoUni" : 35,
+  "nombre" : "app35q",
+  "descripcion" : "Food App",
+  "tamanioKb" : 744.1303360726216,
+  "numeroDescargas" : 9379
+}, {
+  "codigoUni" : 36,
+  "nombre" : "app36B",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 401.58190842592285,
+  "numeroDescargas" : 3310
+}, {
+  "codigoUni" : 37,
+  "nombre" : "app37u",
+  "descripcion" : "Games App",
+  "tamanioKb" : 773.5835374917467,
+  "numeroDescargas" : 6760
+}, {
+  "codigoUni" : 38,
+  "nombre" : "app38d",
+  "descripcion" : "Generator App",
+  "tamanioKb" : 867.1326011589888,
+  "numeroDescargas" : 22829
+}, {
+  "codigoUni" : 39,
+  "nombre" : "app39o",
+  "descripcion" : "Locations App",
+  "tamanioKb" : 914.3654659553197,
+  "numeroDescargas" : 46740
+}, {
+  "codigoUni" : 40,
+  "nombre" : "app40b",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 345.49582557653264,
+  "numeroDescargas" : 25081
+}, {
+  "codigoUni" : 41,
+  "nombre" : "app41n",
+  "descripcion" : "Editor App",
+  "tamanioKb" : 316.692625710485,
+  "numeroDescargas" : 33157
+}, {
+  "codigoUni" : 42,
+  "nombre" : "app42g",
+  "descripcion" : "Reader App",
+  "tamanioKb" : 987.4159207812307,
+  "numeroDescargas" : 39853
+}, {
+  "codigoUni" : 43,
+  "nombre" : "app43Z",
+  "descripcion" : "Food App",
+  "tamanioKb" : 822.4662752378147,
+  "numeroDescargas" : 31076
+}, {
+  "codigoUni" : 44,
+  "nombre" : "app44o",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 712.1630784962524,
+  "numeroDescargas" : 1438
+}, {
+  "codigoUni" : 45,
+  "nombre" : "app45m",
+  "descripcion" : "Iphone App",
+  "tamanioKb" : 903.7590143318769,
+  "numeroDescargas" : 48610
+}, {
+  "codigoUni" : 46,
+  "nombre" : "app46I",
+  "descripcion" : "Great App",
+  "tamanioKb" : 393.2108786872575,
+  "numeroDescargas" : 29018
+}, {
+  "codigoUni" : 47,
+  "nombre" : "app47G",
+  "descripcion" : "Utils App",
+  "tamanioKb" : 311.244912224343,
+  "numeroDescargas" : 18522
+}, {
+  "codigoUni" : 48,
+  "nombre" : "app48Y",
+  "descripcion" : "Games App",
+  "tamanioKb" : 156.4430458156261,
+  "numeroDescargas" : 37771
+}, {
+  "codigoUni" : 49,
+  "nombre" : "app49O",
+  "descripcion" : "Reader App",
+  "tamanioKb" : 505.6926337350614,
+  "numeroDescargas" : 13987
+} ]

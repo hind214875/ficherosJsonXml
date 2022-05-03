@@ -1,0 +1,43 @@
+[ {
+  "id" : "C4",
+  "descripcion" : "Mesa comedor",
+  "ancho" : 1.0,
+  "alto" : 2.0,
+  "profundo" : 3.0,
+  "fechaFabricacion" : [ 2022, 5, 2 ]
+}, {
+  "id" : "C5",
+  "descripcion" : "Mesa cocina",
+  "ancho" : 3.0,
+  "alto" : 1.0,
+  "profundo" : 2.2,
+  "fechaFabricacion" : [ 2022, 5, 2 ]
+}, {
+  "id" : "C6",
+  "descripcion" : "Mesa terraza",
+  "ancho" : 3.0,
+  "alto" : 3.0,
+  "profundo" : 3.0,
+  "fechaFabricacion" : [ 2022, 5, 2 ]
+}, {
+  "id" : "S1",
+  "descripcion" : "Silla madera",
+  "ancho" : 0.5,
+  "alto" : 2.0,
+  "profundo" : 3.3,
+  "fechaFabricacion" : [ 2022, 5, 2 ]
+}, {
+  "id" : "S2",
+  "descripcion" : "Silla plástico",
+  "ancho" : 0.5,
+  "alto" : 1.2,
+  "profundo" : 3.3,
+  "fechaFabricacion" : [ 2022, 5, 2 ]
+}, {
+  "id" : "S3",
+  "descripcion" : "Silla oficina",
+  "ancho" : 2.5,
+  "alto" : 2.0,
+  "profundo" : 1.0,
+  "fechaFabricacion" : [ 2022, 5, 2 ]
+} ]
